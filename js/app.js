@@ -38,7 +38,7 @@ addBtn.addEventListener("click", function(e)
             
         {
             html += ` 
-            <div   class="notecard my-2 mx-2" style="width: 18rem;">
+            <div   class="notecard my-2 mx-2 " style="width: 18rem;">
             <div class="card-body">
               <h5 class="card-title">note ${index + 1}</h5>
               <p class="card-text">${element}</p>
